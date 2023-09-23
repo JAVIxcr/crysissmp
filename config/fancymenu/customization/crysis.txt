@@ -1,0 +1,68 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/fondo13.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 210
+  width = 540
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 30d160f3-8882-475a-90b2-cd4efa20594a1695451966551
+  y = 203
+  height = 134
+}
+
+customization {
+  custom_color_hex = #404040
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 4a569019-8249-437f-8fd5-f542195e8e071695451966560
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #db0404
+  orientation = mid-centered
+  hidden = false
+  original_pos_size_calculation = false
+  x = -270
+  width = 540
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 7e3e27c5-105d-42a0-a134-d8c32edcbd241695451966560
+  y = 35
+  height = 10
+}
+
+customization {
+  path = resources/crysislogo2.png
+  orientation = mid-centered
+  x = -100
+  width = 200
+  action = addtexture
+  actionid = 6c03c658-0ee3-4bca-8eb5-f425398c3ae51695451995557
+  y = -119
+  height = 200
+}
+

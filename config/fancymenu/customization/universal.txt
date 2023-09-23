@@ -1,0 +1,30 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  universal_layout_blacklist = ;net.minecraft.client.gui.screens.PauseScreen;
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  audio_source:bb5ddb51-b894-44fa-b8ff-b1747c85c9e61695452954723 = resources/main.ogg;EXTERNAL_LOCAL;100;0
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 455
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 0a9c966d-b330-443c-bf6a-7dae05bd9b571695452949933
+  y = 311
+  once_per_session = false
+  height = 50
+}
+
