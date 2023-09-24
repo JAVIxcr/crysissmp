@@ -257,7 +257,7 @@ customization {
 customization {
   orientation = mid-centered
   restartbackgroundanimations = true
-  buttonaction = joinserver;161.129.182.138:25565%btnaction_splitter_fm%
+  buttonaction = joinserver;crysissmp.minecraft.best%btnaction_splitter_fm%
   backgroundhovered = resources/botonjugar2.png
   label = 
   loopbackgroundanimations = true
