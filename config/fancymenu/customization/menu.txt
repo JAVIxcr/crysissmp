@@ -21,9 +21,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   orientation = mid-centered
-  x = -102
+  x = -99
   action = movebutton
-  y = -35
+  y = 2
 }
 
 customization {
@@ -36,7 +36,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -77
+  y = -19
 }
 
 customization {
@@ -54,15 +54,15 @@ customization {
   orientation = mid-centered
   x = -48
   action = movebutton
-  y = -56
+  y = 23
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
   orientation = mid-centered
-  x = 4
+  x = 0
   action = movebutton
-  y = -35
+  y = 2
 }
 
 customization {
@@ -72,7 +72,7 @@ customization {
   width = 236
   action = addtexture
   actionid = b62f56ed-af7c-4356-a6d1-2df0d1f110eb1695454815257
-  y = -185
+  y = -129
   height = 100
 }
 
@@ -85,8 +85,16 @@ customization {
   width = 204
   action = addbutton
   actionid = 80afc1f6-a58a-4636-b516-4f65459868121695454847710
-  y = -14
+  y = 44
   label = Salir de Crysis SMP
   height = 20
+}
+
+customization {
+  identifier = %id=40%
+  orientation = mid-centered
+  x = -404
+  action = movebutton
+  y = -147
 }
 

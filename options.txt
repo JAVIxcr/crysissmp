@@ -120,11 +120,11 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
-key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
-key_key.journeymap.zoom_in:key.keyboard.equal
-key_key.journeymap.zoom_out:key.keyboard.minus
-key_key.journeymap.minimap_type:key.keyboard.left.bracket
-key_key.journeymap.minimap_preset:key.keyboard.backslash
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
+key_key.journeymap.zoom_in:key.keyboard.keypad.add
+key_key.journeymap.zoom_out:key.keyboard.keypad.subtract
+key_key.journeymap.minimap_type:key.keyboard.keypad.multiply
+key_key.journeymap.minimap_preset:key.keyboard.keypad.decimal
 key_key.journeymap.create_waypoint:key.keyboard.b
 key_key.journeymap.toggle_waypoints:key.keyboard.z
 key_key.journeymap.fullscreen_create_waypoint:key.keyboard.b

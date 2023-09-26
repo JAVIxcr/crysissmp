@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = resources/fondo13.png
+  path = resources/fondo12.png
   action = texturizebackground
 }
 
@@ -44,14 +44,14 @@ customization {
 
 customization {
   custom_color_hex = #db0404
-  orientation = mid-centered
+  orientation = top-left
   hidden = false
-  original_pos_size_calculation = false
-  x = -270
+  original_pos_size_calculation = true
+  x = 210
   width = 540
   action = deep_customization_element:drippy_overlay_progress_bar
   actionid = 7e3e27c5-105d-42a0-a134-d8c32edcbd241695451966560
-  y = 35
+  y = 444
   height = 10
 }
 
@@ -62,7 +62,7 @@ customization {
   width = 200
   action = addtexture
   actionid = 6c03c658-0ee3-4bca-8eb5-f425398c3ae51695451995557
-  y = -119
+  y = -108
   height = 200
 }
 

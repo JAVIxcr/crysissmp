@@ -42,16 +42,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
-  x = 11
+  x = 32
   action = movebutton
-  y = 50
+  y = 61
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 20
+  width = 30
   action = resizebutton
-  height = 20
+  height = 30
 }
 
 customization {
@@ -104,16 +104,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
-  x = -10
+  x = -13
   action = movebutton
-  y = 50
+  y = 61
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  width = 20
+  width = 30
   action = resizebutton
-  height = 20
+  height = 30
 }
 
 customization {
@@ -139,9 +139,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
-  x = -31
+  x = -59
   action = movebutton
-  y = 50
+  y = 62
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 30
+  action = resizebutton
+  height = 30
 }
 
 customization {
@@ -261,12 +268,12 @@ customization {
   backgroundhovered = resources/botonjugar2.png
   label = 
   loopbackgroundanimations = true
-  x = -41
-  width = 81
+  x = -65
+  width = 130
   action = addbutton
   actionid = 2a9b09da-4208-4eea-8a84-664b8cf5031c1695449011095
-  y = 30
+  y = 29
   backgroundnormal = resources/botonjugar.png
-  height = 20
+  height = 30
 }
 
