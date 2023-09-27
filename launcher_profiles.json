@@ -1,11 +1,10 @@
 {
   "profiles" : {
-    "82931c412e59ab4170a038156a814162" : {
-      "created" : "2023-09-15T23:04:31.233Z",
-      "gameDir" : "C:\\Crysis SMP",
-      "icon" : "Log_Oak",
+    "1eecdd08f8fd8ea44041f13fc1929e6a" : {
+      "created" : "2023-09-27T01:02:13.261Z",
+      "icon" : "Log_DarkOak",
       "javaArgs" : "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
-      "lastUsed" : "2023-09-23T07:18:44.533Z",
+      "lastUsed" : "2023-09-27T01:02:23.008Z",
       "lastVersionId" : "1.20.1-forge-47.0.35",
       "name" : "Crysis SMP",
       "type" : "custom"
